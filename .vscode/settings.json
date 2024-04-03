@@ -1,0 +1,5 @@
+{
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.minimap.autohide": false,
+    "editor.inlineSuggest.showToolbar": "onHover"
+}
